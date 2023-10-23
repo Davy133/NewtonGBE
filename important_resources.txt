@@ -1,0 +1,6 @@
+https://cturt.github.io/cinoop.html
+http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
+https://gbdev.io/pandocs/Memory_Map.html%7C
+https://gekkio.fi/files/gb-docs/gbctr.pdf
+https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html
+https://github.com/geaz/emu-gameboy/blob/master/docs/The%20Cycle-Accurate%20Game%20Boy%20Docs.pdf
