@@ -27,4 +27,4 @@ If you would like to contribute to NewtonGBE, please follow these steps:
 
 ## License
 
-This project is licensed under the [insert license name here] license. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
