@@ -1,30 +1,22 @@
-# NewtonGBE
+<div align="center">
+<img src="https://github.com/Davy133/NewtonGBE/assets/55928285/fdd5de3a-54b9-44ee-ab12-f557b91ffec5" /></br>
+</div>
 
-This is a (very) minimalist Game Boy emulator project called NewtonGBE. The project is currently a work in progress and is being developed as a academic project.
+<div align="center">
+<b>NewtonGBE is a Gameboy Emulator developed as an academic project.</b>
+</div>
+&nbsp;
 
-## Installation
+<div align="center">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Davy133/NewtonGBE">
+<img alt="GitHub" src="https://img.shields.io/github/license/Davy133/NewtonGBE">
+</div>
 
-To install NewtonGBE, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies.
-3. Build the project.
-4. Run the emulator.
-
-## Usage
-
-For now, it is not usable.
-
-## Contributing
-
-If you would like to contribute to NewtonGBE, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes.
-4. Test your changes.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
+<div>
+<h1>Usage</h1>
+<p>This is project is currently in WIP.</p>
+</div>
+<div>
+<h1>License</h1>
+<p>This project is under <a href="https://github.com/Davy133/NewtonGBE/blob/main/LICENSE">MIT License</a>.</p>
+</div>
