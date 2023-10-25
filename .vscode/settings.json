@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "databus.h": "c",
+        "registers.h": "c",
+        "cpu.h": "c"
+    }
+}

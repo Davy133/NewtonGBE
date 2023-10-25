@@ -150,3 +150,11 @@ bool cartridge_load(char *cartridge){
 	printf("\t Checksum		: %2.2X (%s)\n", cartridge_ctx.header->global_checksum, (x & 0xFF) ? "PASSED" : "FAILED");
 	return true;
 }
+
+void write_data_to_cartridge(u16 address, u8 data){
+	NO_IMPL
+};
+
+u8 read_data_from_cartridge(u16 address){
+	return cartridge_ctx.rom[address];
+};

@@ -115,4 +115,7 @@ typedef struct {
 extern const char *licenseeCodeString[256];
 extern const char *romTypeString[256];
 
+void write_data_to_cartridge(u16 address, u8 data);
+u8 read_data_from_cartridge(u16 address);
+
 bool cartridge_load(char *cartridge);

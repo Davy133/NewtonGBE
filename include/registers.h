@@ -14,63 +14,17 @@ struct flags_register
 	bool carry;
 } extern flags_register;
 
-struct registers
-{
-	struct
-	{
-		union
-		{
-			struct
-			{
-				unsigned char f;
-				unsigned char a;
-			};
-			unsigned short af;
-		};
-	};
-
-	struct
-	{
-		union
-		{
-			struct
-			{
-				unsigned char c;
-				unsigned char b;
-			};
-			unsigned short bc;
-		};
-	};
-
-	struct
-	{
-		union
-		{
-			struct
-			{
-				unsigned char e;
-				unsigned char d;
-			};
-			unsigned short de;
-		};
-	};
-
-	struct
-	{
-		union
-		{
-			struct
-			{
-				unsigned char l;
-				unsigned char h;
-			};
-			unsigned short hl;
-		};
-	};
-
-	unsigned short sp;
-	unsigned short pc;
-
+struct registers {
+	u8 a;
+	u8 f;
+	u8 b;
+	u8 c;
+	u8 d;
+	u8 e;
+	u8 h;
+	u8 l;
+	u16 sp;
+	u16 pc;
 } extern registers;
 
 u8 flags_register_to_byte(struct flags_register flag);

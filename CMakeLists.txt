@@ -5,6 +5,7 @@ set(SOURCES
     lib/cartridge.c 
     lib/registers.c 
     lib/cpu.c
+    lib/databus.c
 )
 add_executable(${PROJECT_NAME} ${SOURCES})
 target_include_directories(${PROJECT_NAME} PUBLIC include)
