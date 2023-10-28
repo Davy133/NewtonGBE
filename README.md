@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<b>NewtonGBE is a Gameboy Emulator developed as an academic project.</b>
+<b>NewtonGBE is a Gameboy Emulator developed as an hobby.</b>
 </div>
 &nbsp;
 
